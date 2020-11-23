@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+.row, form.form, button {
+    font-family: 'Roboto', sans-serif;
+}
+
+.row {
+    column-width: 170px;
+}
+
+input[type="text"] {
+    width: 10%;
+}
